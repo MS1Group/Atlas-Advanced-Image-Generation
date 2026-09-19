@@ -1,0 +1,6 @@
+{
+  "name": "Atlas - Advanced Image Generation",
+  "description": "Pro-grade AI image generation suite with advanced controls, real-time feedback, and prompt engineering tools powered by Google Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
