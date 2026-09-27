@@ -99,6 +99,9 @@ Atlas provides a built-in model selector with dynamic configuration:
    ```
    The application will be accessible at `http://localhost:3000`.
 
+   
+##Using Cloud service:
+
 You can use the website https://atlas-advanced-image-generation.vercel.app/ to use the project instead of locally hosting it.
 
 ---
